@@ -1,6 +1,7 @@
 ## Hi there 👋
 # <div align="center">
-# 👋 Hi there! I'm **reddynikesh** 
+# 👋 Hi there! I'm **reddynikesh83-create
+** 
 ### 🤖 AI Engineer | Full Stack Developer | Machine Learning Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;AI+Engineer+%26+ML+Enthusiast;Building+Intelligent+Solutions;Let's+Create+Something+Amazing!" alt="Typing SVG" />
